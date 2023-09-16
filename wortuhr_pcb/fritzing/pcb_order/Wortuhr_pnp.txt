@@ -1,0 +1,21 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Wortuhr
+*Date=01:20:08
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;1000µF;300 mil [THT, electrolytic];10.0247;-35.1739;0;Bottom;C1
+2;;;25.0457;-12.3139;0;Bottom;Part1
+3;330;THT;39.2347;-27.5539;180;Bottom;R1
+4;;DIP (Dual Inline) [THT];25.2647;-35.1739;0;Bottom;IC1
+5;;THT;44.4417;-39.2379;90;Bottom;J1
+6;;;45.4152;-42.7316;0;Bottom;Via1
